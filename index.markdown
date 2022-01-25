@@ -1,3 +1,6 @@
+---
+title: Home
+---
 <html>
 <body>
 <h1>Hello World</h1>
