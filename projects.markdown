@@ -5,7 +5,7 @@ permalink: /projects/
 <html>
 <body>
 <h1>Term Buddy - An Assistant for Students</h1>
-  ![Book logo](/assets/logo.png)
+  <img src="![Book logo](portfolio_cc/assets/logo.png)">
 <p>Description</p>
 </body>
 </html>
