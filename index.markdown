@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Clay Carr
 layout: default
 ---
 <html>
