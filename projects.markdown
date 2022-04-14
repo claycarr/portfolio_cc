@@ -12,6 +12,7 @@ permalink: /projects/
   
   <img src="https://claycarr.github.io/portfolio_cc/assets/termbuddy3.png" alt="Home Screen" width="375px" alight="left"/>
   <h3>Features</h3>
+    <p style="float:left;">Users can add new terms, courses, and within each course, they can add assessments.</p>
   <img src="https://claycarr.github.io/portfolio_cc/assets/termbuddy4.png" alt="Menu" width="375px" style="float:right;"/>
   <p style="float:left;">Users can add new terms, courses, and within each course, they can add assessments.</p>
   
